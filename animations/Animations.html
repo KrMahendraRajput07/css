@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <style>
+        * {
+            margin: 00px;
+            padding: 00px;
+        }
+
+        .main {
+            background-repeat: no-repeat;
+            width: 100%;
+            height: 100vh;
+            background: url(Put\ Your\ Image.png);
+
+        }
+
+        .sec-1 {
+            height: 300px;
+            width: 300px;
+            animation: abc;
+            animation-delay: 2s;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+            position: relative;
+        }
+
+        @keyframes abc {
+            0% {
+                left: 0px;
+                top: 0px;
+                rotate: 360deg;
+            }
+
+            50% {
+                left: 700px;
+                top: 500px;
+                rotate: 360deg;
+            }
+            80% {
+                left: 700px;
+                top: 00px;
+                rotate: 360deg;
+            }
+        }
+    </style>
+    <div class="main">
+        <img class="sec-1" src="sun.png" alt="">
+
+    </div>
+</body>
+
+</html>

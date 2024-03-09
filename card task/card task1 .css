@@ -1,0 +1,105 @@
+
+*{ margin: 00px;
+padding: 00px;
+}
+
+.card{ background-color: antiquewhite;
+    height: 400px; width: 250px;
+    border: solid 2px white; border-radius: 30px ;
+    margin-left: 30px;
+}
+.card:hover{ box-shadow:0px opx 5px 5px ;
+    margin-left: 10%}
+
+.heading{ 
+    border: solid 2px rgba(0, 0, 0, 0.308);
+    font-size:100px;
+    color: aliceblue;
+    background-color: rgb(231, 194, 12);
+    height: 200px;
+    width: 250px;
+    border: solid 1 pxrgba(0, 0, 0, 0)k; border-radius:28px 28px 200px 200px ;
+    margin:right= -50px ;
+    margin-bottom:100px ;
+text-align: center;}
+
+ .p{ background-color: beige;
+    width: fit-content; 
+    font: size 12px;
+    margin-top:-80px ;
+    text-align:center ;
+ }
+ .button{ border-radius:  10px; ;
+color: antiquewhite; background-color: orange;margin-top:-200px ;
+margin-top:50px ; 
+text-align: center;}
+
+*{ margin: 00px;
+padding: 00px;}
+
+.card2{ background-color: antiquewhite;
+    height: 400px; width: 250px;
+    border: solid 2px white; border-radius: 30px ;
+    margin-left:30px;}
+
+.card2:hover{ box-shadow:0px opx 5px 5px ;
+margin-left: 10% ;}
+
+.heading2{ 
+    border: solid 2px rgba(0, 0, 0, 0.308);
+    font-size:100px;
+    color: aliceblue;
+    background-color: rgb(200, 21, 21);
+    height: 200px;
+    width: 250px;
+    border: solid 1 pxrgba(0, 0, 0, 0)k; border-radius:28px 28px 200px 200px ;
+    margin:right= -50px ;
+    margin-bottom:100px ;
+text-align: center;}
+
+ .p2{ background-color: beige;
+    width: fit-content; 
+    font: size 12px;
+    margin-top:-80px ;
+    text-align:center ;
+ }
+ .button2{ border-radius:  10px; ;
+color: antiquewhite; background-color: rgb(200, 21, 21);margin-top:-200px ;
+margin-top:50px ; 
+text-align: center;}
+
+*{ margin: 00px;
+    padding: 00px;}
+    
+    .card3{ background-color: antiquewhite;
+        height: 400px; width: 250px;
+        border: solid 2px white; border-radius: 30px ;
+        margin-left: 30px;}
+    
+    .card3:hover{ box-shadow:0px opx 5px 5px ;
+    margin-left: 10% ;}
+    
+    .heading3{ 
+        border: solid 2px rgba(0, 0, 0, 0.308);
+        font-size:100px;
+        color: aliceblue;
+        background-color: rgb(60, 21, 200);
+        height: 200px;
+        width: 250px;
+        border: solid 1 pxrgba(0, 0, 0, 0)k; border-radius:28px 28px 200px 200px ;
+        margin:right= -50px ;
+        margin-bottom:100px ;
+    text-align: center;}
+    
+     .p3{ background-color: beige;
+        width: fit-content; 
+        font: size 12px;
+        margin-top:-80px ;
+        text-align:center ;
+     }
+     .button3{ border-radius:  10px; ;
+    color: antiquewhite; background-color: rgb(60, 21, 200);margin-top:-200px ;
+    margin-top:50px ; 
+    text-align: center;}
+
+

@@ -1,0 +1,28 @@
+
+.abc:hover {color: red; background-color: aqua;}
+
+.abcd :hover {
+    background-image:url(JAISALMER.jpg);
+}
+p::first-letter { color: aqua;
+background-color: blue;}
+p::first-line{
+    color: brown;
+}
+.abc:active {
+    background-color: blue;
+}
+.abc:focus {
+    color: blueviolet;
+}
+input:hover{ background-color:red ;}
+button{ background: linear-gradient( to right,red,aqua,orangered,blue)
+}
+.main { background: url(JAISALMER.jpg);
+    width: 200px;
+    height: 200px;
+}
+
+.main:hover {
+    background: url(ClockTower\,jodhpur_\(enhanced\).jpg);
+}
